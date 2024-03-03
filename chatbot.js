@@ -1,4 +1,4 @@
-let apikey = "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";
+let apikey = ;
 let count = 0; // Added initialization for count variable
 
 document.getElementById('input_icon').addEventListener('click', () => {
